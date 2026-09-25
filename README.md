@@ -2,6 +2,7 @@
  - Criar repositorio no GitHub
  - Criar pasta no computador
  - Iniciar o git com o comando "git init"
+ - Vincular com github "git remove add origin <Link>"
 
  # Salvar mudanças no repositório:
  - Adicionar mudanças no pacote usando "git add . " (. significa todos os arquivos)
